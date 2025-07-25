@@ -6,6 +6,8 @@ A parking lot management system using YOLO model to detect and count available p
 
 ---
 ▶️ [Watch the demo video](https://drive.google.com/file/d/1CBrsH-xH2jNB7mFrT_2H96_WJ9wWixtu/view?usp=drive_link)
+<iframe width="560" height="315" src="(https://drive.google.com/file/d/1CBrsH-xH2jNB7mFrT_2H96_WJ9wWixtu/view?usp=drive_link)" frameborder="0" allowfullscreen></iframe>
+
 
 ### Requirements
 
