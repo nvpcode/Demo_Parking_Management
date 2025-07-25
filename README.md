@@ -5,7 +5,12 @@
 A parking lot management system using YOLO model to detect and count available parking slots in a video.
 
 ---
+
+### Demo
+
 ▶️ [Watch the demo video](https://drive.google.com/file/d/1CBrsH-xH2jNB7mFrT_2H96_WJ9wWixtu/view?usp=drive_link)
+
+---
 
 ### Requirements
 
